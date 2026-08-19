@@ -1,0 +1,7 @@
+Time=0  | Reset=1 | D=0 | Q=0
+Time=10 | Reset=0 | D=0 | Q=0
+Time=20 | Reset=0 | D=1 | Q=1
+Time=30 | Reset=0 | D=0 | Q=0
+Time=40 | Reset=0 | D=1 | Q=1
+Time=50 | Reset=1 | D=1 | Q=0
+Time=60 | Reset=0 | D=0 | Q=0
